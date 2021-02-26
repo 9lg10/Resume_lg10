@@ -59,7 +59,7 @@
   * AdMod广告嵌入规则
   
   * 使用SVN作为整个项目的代码版本控制
-  >GitHUb项目地址：git@github.com:9lg10/WifiBooster.git
+  >GitHUb项目地址：https://github.com/9lg10/WifiBooster.git
 
 - **项目：FastSave**
 
